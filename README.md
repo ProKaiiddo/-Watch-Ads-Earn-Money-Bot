@@ -23,3 +23,12 @@ Welcome to the **Watch Ads Earn Money** bot! This bot allows users to earn money
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/ProKaiiddo/-Watch-Ads-Earn-Money-Bot
+
+
+2. **Admin Dashboard**:
+   ```bash
+   https://www.example.com/admin.php
+
+3 **User Dashboard**:
+   ```bash
+   https://www.example.com/?id=7572521806
